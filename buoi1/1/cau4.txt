@@ -1,0 +1,18 @@
+Bài 4: Phân tích độ phức tạp
+
+Với mảng có n phần tử:
+
+a> Trường hợp tốt nhất
+-Phần tử nằm ngay đầu mảng
+- Số phép so sánh: 1
+
+b> Trường hợp xấu nhất
+- Phần tử ở cuối hoặc không tồn tại
+- Số phép so sánh: n
+
+c>Trường hợp trung bình
+- Trung bình phải kiểm tra khoảng n/2 phần tử
+- \Số phép so sánh: n/2
+
+Độ phức tạp thời gian:
+-Big O: O(n)
