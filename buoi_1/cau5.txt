@@ -1,0 +1,15 @@
+Bài 5: Điều kiện áp dụng
+
+- Tìm kiếm tuyến tính không bắt buộc mảng phải được sắp xếp.
+- Có thể áp dụng cho mọi mảng.
+
+So sánh với tìm kiếm nhị phân:
+
+1. Tìm kiếm tuyến tính
+- Không cần sắp xếp
+- Độ phức tạp: O(n)
+
+2. Tìm kiếm nhị phân
+- Bắt buộc mảng phải sắp xếp
+- Độ phức tạp: O(log n)
+- Nhanh hơn khi dữ liệu lớn

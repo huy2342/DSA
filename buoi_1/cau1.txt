@@ -1,0 +1,18 @@
+Bài 1: Trình bày ý tưởng
+
+-Thuật toán tìm kiếm tuyến tính hoạt động bằng cách duyệt lần lượt từng phần tử trong mảng từ đầu đến cuối.
+- Ở mỗi bước, so sánh phần tử hiện tại với giá trị cần tìm x.
+-Nếu tìm thấy thì trả về vị trí của phần tử.
+- Nếu duyệt hết mảng mà không thấy thì kết luận không tồn tại.
+
+Input:
+-Mảng A gồm n phần tử
+- Giá trị cần tìm x
+
+Output:
+- Vị trí của x trong mảng nếu tìm thấy
+- ếu không có thì trả về -1 hoặc thông báo “không tìm thấy”
+
+Thuật toán dừng khi:
+-Tìm thấy phần tử x
+- Hoặc đã kiểm tra hết mảng
